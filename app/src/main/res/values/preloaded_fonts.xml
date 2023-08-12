@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allura</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/nerko_one</item>
+    </array>
+</resources>
